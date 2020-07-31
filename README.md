@@ -6,5 +6,5 @@ In my spare time I enjoy Playing Guitar (🎸), watching movies (🎞️) and se
 
 Would you like to find me?
 
-[![Blog Badge]()
+[Aqui Vai Um Botão Em breve]
 
