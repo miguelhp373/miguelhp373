@@ -17,3 +17,6 @@ Você gostaria de me encontrar?
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=black)
 
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhp373&hide=html&layout=compact&theme=default" />
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=miguelhp373&theme=default" />
