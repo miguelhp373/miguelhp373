@@ -1,15 +1,16 @@
-## Bem-vindo 👋 ao meu Repositório! Aqui Arquivo meus Estudos e Projetos Diariamente.
+## Welcome to my Repository! 👋 
+Here I archive my studies and projects daily.
 
-Meu nome é Miguel Henrique, do Brasil (🇧🇷). Eu amo Programação e Desenvolvimento (💻)!.
+My name is Miguel Henrique, from Brazil (🇧🇷). I love Programming and Development (💻) !.
 
-Adoro Desenvolver Novos Projetos, e Aprender Novas tecnologias,
+I love to develop new projects, and learn new technologies,
 
-Você gostaria de me encontrar?
+Would you like to meet me?
 
 <a href="#">[visit page]</a>
 
 
-###  Desenvolvo / Estudo: 
+### Development / Study:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
