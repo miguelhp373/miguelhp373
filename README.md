@@ -12,7 +12,7 @@ Would you like to meet me?
 <a href="https://api.whatsapp.com/send?phone=5511942542038"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ***
-### Development / Study:
+### Skills / Study:
 <div style="display:flex;padding:10px">
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
  &nbsp;
