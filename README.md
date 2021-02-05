@@ -1,5 +1,5 @@
 ## Welcome to my Repository! 👋 
-Here I archive my studies and projects daily.
+Here I archive my projects and studies daily.
 
 My name is Miguel Henrique, from Brazil (🇧🇷). I love Programming and Development (💻) !.
 
