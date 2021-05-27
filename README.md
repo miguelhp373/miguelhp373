@@ -17,6 +17,14 @@ Would you like to meet me?
 ***
 ### Skills / Study:
 <div style="display:flex;padding:10px">
+ <a href=''>
+  <img src='https://img.shields.io/badge/Delphi-EE1F35.svg?style=for-the-badge&logo=Delphi&logoColor=white'/>
+ </a>
+ &nbsp;
+ <a href''>
+   <img src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white'/>
+ </a>
+ &nbsp;
  <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=php">
  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
  </a>
@@ -35,10 +43,6 @@ Would you like to meet me?
   &nbsp;
 <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=css">
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- </a>
-  &nbsp;
- <a href="https://sass-lang.com/">
-  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
  </a>
   &nbsp;
  <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=typescript">
