@@ -58,9 +58,12 @@ Would you like to meet me?
 <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=tsql">
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
+  &nbsp;
+ <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
  &nbsp;
  <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 </div>
+
 
 ***
 
