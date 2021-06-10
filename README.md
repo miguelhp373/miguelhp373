@@ -26,7 +26,7 @@ Would you like to meet me?
  </a>
  &nbsp;
  <a href=''>
-   <img src='https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white/>
+   <img src='https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'/>
  </a>
  &nbsp;
  <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=php">
