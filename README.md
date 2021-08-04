@@ -59,10 +59,6 @@ Would you like to meet me?
  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </a>
  &nbsp;
-<a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=java">
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-</a>
- &nbsp;
 <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=tsql">
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
