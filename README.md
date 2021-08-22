@@ -3,7 +3,7 @@ Here I archive my projects and studies daily.
 
 My name is Miguel Henrique, from Brazil (🇧🇷). I love Programming and Development (💻) !.
 
-I work as a junior programmer developing in Delphi 5, 7 and SQLServer.
+I work as a junior programmer developing in Delphi and SQLServer.
 
 I love to develop new projects, and learn new technologies,
 
