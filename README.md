@@ -10,7 +10,6 @@ I love to develop new projects, and learn new technologies,
 Would you like to meet me?
 <br><br>
 <a href = "https://www.linkedin.com/in/miguel-henrique-pereira-b466921b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img alt="Youtube" src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 <a href="https://api.whatsapp.com/send?phone=5511942542038"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href='https://www.hackerrank.com/miguelhp373'><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
@@ -23,6 +22,10 @@ Would you like to meet me?
  &nbsp;
  <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=tsql&sort='>
    <img src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white'/>
+ </a>
+ &nbsp;
+ <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=c%23&sort='>
+   <img src='https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white'/>
  </a>
  &nbsp;
  <a href=''>
