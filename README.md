@@ -17,19 +17,19 @@ Would you like to meet me?
 ### Skills / Study:
 <div style="display:flex;padding:10px">
  <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=pascal&sort='>
-  <img src='https://img.shields.io/badge/Delphi-EE1F35.svg?style=for-the-badge&logo=Delphi&logoColor=white'/>
+  <img alt="Delphi" src='https://img.shields.io/badge/Delphi-EE1F35.svg?style=for-the-badge&logo=Delphi&logoColor=white'/>
  </a>
  &nbsp;
  <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=tsql&sort='>
-   <img src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white'/>
+   <img alt="SQLServer" src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white'/>
  </a>
  &nbsp;
  <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=c%23&sort='>
-   <img src='https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white'/>
+   <img alt=".net" src='https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white'/>
  </a>
  &nbsp;
  <a href=''>
-   <img src='https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'/>
+   <img alt="flutter" src='https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'/>
  </a>
  &nbsp;
  <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=php">
@@ -57,10 +57,6 @@ Would you like to meet me?
 </a>
   &nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
- &nbsp;
-<a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=c%23">
- <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</a>
  &nbsp;
 <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=tsql">
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
