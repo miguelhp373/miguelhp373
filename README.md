@@ -70,5 +70,7 @@ Would you like to meet me?
 
 ***
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhp373&hide=html&layout=compact&theme=default" />
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=miguelhp373&theme=default" />
+<div style='display:flex;flex-direction: row; justify-content: space-around'>
+  <img width="400px" height='200px' align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhp373&hide=html&layout=compact&theme=default" />
+  <img width="400px" height='200px' align="right" src="https://github-readme-stats.vercel.app/api?username=miguelhp373&theme=default" />
+</div>
