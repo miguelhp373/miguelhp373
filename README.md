@@ -70,7 +70,10 @@ Would you like to meet me?
 
 ***
 
-<div style='display:flex;flex-direction: row; justify-content: space-around'>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhp373&hide=html&layout=compact&theme=default" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=miguelhp373&theme=default" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhp373&show_icons=true&theme=radical)
+&nbsp; 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelhp373&show_icons=true&theme=radical)
+
+
+
+
