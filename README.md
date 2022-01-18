@@ -23,11 +23,7 @@ Would you like to meet me?
  <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=tsql&sort='>
    <img alt="SQLServer" src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white'/>
  </a>
- &nbsp;
- <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=c%23&sort='>
-   <img alt=".net" src='https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white'/>
- </a>
- &nbsp;
+  &nbsp;
  <a href=''>
    <img alt="flutter" src='https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'/>
  </a>
@@ -55,6 +51,10 @@ Would you like to meet me?
  <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=typescript">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </a>
+  &nbsp;
+ <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=c%23&sort='>
+   <img alt=".net" src='https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white'/>
+ </a>
   &nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
  &nbsp;
