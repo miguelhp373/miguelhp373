@@ -1,16 +1,17 @@
 ## Welcome to my Repository! 👋 
 Here I archive my projects and studies daily.
 
-My name is Miguel Henrique, from Brazil (🇧🇷). I love Programming and Development (💻) !.
+My name is Miguel Henrique, from Brazil (🇧🇷). I love Programming and Development (💻)!
 
-I work as a full programmer developing in Delphi, Asp.Net MVC 5 and SQLServer.
+I work as a full programmer, utilizing Flutter for mobile app development, Delphi for desktop applications, and .NET for both web and desktop applications. In the realm of SQL, I have extensive expertise, employing T-SQL, PL-SQL, and PL-PgSQL for efficient and comprehensive database management.
 
-I love to develop new projects, and learn new technologies,
+I thoroughly enjoy developing new projects and am dedicated to staying updated with the latest technologies in the ever-evolving field of programming.
 
-Would you like to meet me?
+Would you like to connect and learn more about my work?
 <br><br>
 <a href = "https://www.linkedin.com/in/miguel-henrique-pereira-b466921b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://www.hackerrank.com/miguelhp373'><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href='https://www.hackerrank.com/miguelhp373'><img alt="HackerRank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ***
 ### Skills / Study:
