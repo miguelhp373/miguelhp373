@@ -24,10 +24,6 @@ Would you like to connect and learn more about my work?
   <img alt="Delphi" src='https://img.shields.io/badge/Delphi-EE1F35.svg?style=for-the-badge&logo=Delphi&logoColor=white'/>
  </a>
  &nbsp;
- <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=csharp&sort='>
-  <img alt="CSharp" src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white'/>
- </a>
- &nbsp;
  <a href='https://github.com/miguelhp373?tab=repositories&q=&type=&language=c%23&sort='>
    <img alt=".net" src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white'/>
  </a> 
