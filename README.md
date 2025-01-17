@@ -1,9 +1,10 @@
-## Welcome to my Repository! 👋 
+## Welcome to my Repository! 👋
+
 Here I archive my projects and studies daily.
 
-My name is Miguel Henrique, from Brazil (🇧🇷). I love Programming and Development (💻)!
+My name is Miguel Henrique, from Brazil (🇧🇷). I’m passionate about Programming and Development (💻)!
 
-I work as a full programmer, utilizing Flutter for mobile app development, Delphi for desktop applications, and .NET for both web and desktop applications. In the realm of SQL, I have extensive expertise, employing T-SQL, PL-SQL, and PL-PgSQL for efficient and comprehensive database management.
+Currently, I work as a Systems Analyst and Programmer in a software house, developing financial management software, fuel logistics systems, storage bases, and distributors across Brazil. I specialize in Delphi for desktop applications, integrating with SQL Server and leveraging advanced stored procedures. Additionally, I’m responsible for the web sector, maintaining the ERP website that utilizes ASP.NET MVC, Entity Framework, and SQL Server with stored procedures.
 
 I thoroughly enjoy developing new projects and am dedicated to staying updated with the latest technologies in the ever-evolving field of programming.
 
