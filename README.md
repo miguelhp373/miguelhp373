@@ -54,10 +54,6 @@ Would you like to connect and learn more about my work?
    <img alt="Express.js" src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'/>
  </a> 
  &nbsp;
- <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=php">
- <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
- </a>
- &nbsp;
  <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=javascript">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  </a>
@@ -73,10 +69,6 @@ Would you like to connect and learn more about my work?
 <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=css">
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  </a>
-  &nbsp;
- <a href="https://github.com/miguelhp373?tab=repositories&q=&type=&language=typescript">
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</a>
   &nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
   &nbsp; 
