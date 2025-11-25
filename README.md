@@ -76,12 +76,3 @@ Would you like to connect and learn more about my work?
 </div>
 
 
-***
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhp373&show_icons=true&theme=radical)
-&nbsp; 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelhp373&show_icons=true&theme=radical)
-
-
-
-
